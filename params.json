@@ -1,6 +1,6 @@
 {
   "name": "Florian25686",
-  "tagline": "Testpage",
-  "body": "## Testpage aka Hello World\r\nTesting Github Pages and the automatic page creating \r\n\r\n## Furthermore ?\r\nI don't know. Just writing some text to see what happens. Lore Ipsum seems boring currently\r\n",
+  "tagline": "",
+  "body": "## What's up with this dev?\r\nInterested in (Tech) \r\n* PHP \r\n* Symfony\r\n* Linux Server Administration\r\n* Linux as Developer Workstation\r\n* Stackoverflow\r\n\r\nNonTech\r\n* Volleyball\r\n* Judo\r\n* Hiking\r\n\r\n\r\n## Current Projects\r\n* Competition Manager for Judo based on symfony3 with mysql ( [Judo Competition Manager](https://github.com/florian25686/judo_competition ) )",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
